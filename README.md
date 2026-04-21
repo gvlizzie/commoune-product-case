@@ -8,9 +8,11 @@ The Commoune is a database-driven networking platform designed specifically for 
 
 Demo available upon request.
 
-<img width="1275" height="567" alt="Screenshot 2026-04-21 at 4 33 17 AM" src="https://github.com/user-attachments/assets/ef6f0bbf-f353-4d81-9c1e-0491fe99912a" />
-
 <img width="1273" height="629" alt="Screenshot 2026-04-21 at 4 32 12 AM" src="https://github.com/user-attachments/assets/4934b92b-79bf-4c23-9fc3-494213d61e14" />
+
+
+
+<img width="1275" height="567" alt="Screenshot 2026-04-21 at 4 33 17 AM" src="https://github.com/user-attachments/assets/ef6f0bbf-f353-4d81-9c1e-0491fe99912a" />
 
 ## Problem
 
